@@ -1,0 +1,3 @@
+rootProject.name = 'RFSM'
+
+include ':app'
